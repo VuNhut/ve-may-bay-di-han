@@ -23,5 +23,5 @@ Giá vé một chiều chưa bao gồm thuế phí
 
 Đến du lịch tại Hàn Quốc, hãy chọn thời gian thích hợp nhất cho chuyến đi du lịch của mình để khám phá nhé, bạn sẽ có cơ hội được tìm hiểu ngay những điều thú vị cần có tại quốc gia này.
 
-Hy vọng những thông tin đại lý vé máy bay <a hred = "http://vivatrantravel.vn/">Viva Trần Travel</a> của chúng tôi cung cấp ở trên sẽ giúp du khách nhanh chóng tìm hiểu và chọn được chuyến đi đến những nơi mình thích ngay khi chuẩn bị du lịch Hàn Quốc.
+Hy vọng những thông tin đại lý vé máy bay <a href = "http://vivatrantravel.vn/">Viva Trần Travel</a> của chúng tôi cung cấp ở trên sẽ giúp du khách nhanh chóng tìm hiểu và chọn được chuyến đi đến những nơi mình thích ngay khi chuẩn bị du lịch Hàn Quốc.
 
